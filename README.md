@@ -1,2 +1,43 @@
 # procrastination-breaker
+
 Built when I procrastinated for 3 days - Freemium $9/month
+
+## 🌀 Powered by AutomationCodex
+
+**Category:** productivity
+
+## Mathematical Framework
+
+- **Graph Theory:** Network optimization and pathfinding
+- **Information Theory:** Pattern recognition and compression
+- **Markov Decision Processes:** Sequential decision making
+- **Automata Theory:** State management and transitions
+
+## Features
+
+- Real-time optimization using advanced mathematics
+- Dual licensing: FREE for humanity, PAID for corporations
+- Built by @sudoaptastra (The Anomaly)
+
+## Installation
+
+```bash
+sudo apt install procrastination-breaker
+```
+
+## License
+
+Dual licensed:
+- MIT License for open source core
+- Commercial license available for enterprise features
+
+## Contact
+
+**Business:** kiliaan@bakerstreet221b.store
+**X/Twitter:** @sudoaptastra
+**GitHub:** https://github.com/BoozeLee
+
+---
+
+*"Another solution born from minor inconvenience"*
+*Part of the 47-project humanitarian arsenal*
